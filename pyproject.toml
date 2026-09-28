@@ -3,12 +3,14 @@ name = "lab"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
+    "bs4>=0.0.2",
     "ipykernel>=7.3.0",
     "ipywidgets>=8.1.9",
     "matplotlib>=3.11.1",
     "numpy>=2.5.3",
     "openpyxl>=3.1.5",
     "pandas>=3.0.5",
+    "requests>=2.34.2",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
     "xlrd>=2.0.2",
