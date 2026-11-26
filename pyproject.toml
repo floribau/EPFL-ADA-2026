@@ -4,17 +4,23 @@ version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
     "bs4>=0.0.2",
+    "empath>=0.89",
+    "gensim>=4.4.0",
     "ipykernel>=7.3.0",
     "ipywidgets>=8.1.9",
     "matplotlib>=3.11.1",
     "networkx>=3.7",
+    "nltk>=3.10.4",
     "numpy>=2.5.3",
     "openpyxl>=3.1.5",
     "pandas>=3.0.5",
+    "pyldavis>=3.4.1",
     "requests>=2.34.2",
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
+    "spacy>=3.8.18",
     "statsmodels>=0.15.0",
+    "vadersentiment>=3.3.2",
     "xlrd>=2.0.2",
 ]
